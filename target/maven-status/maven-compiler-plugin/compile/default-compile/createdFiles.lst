@@ -1,0 +1,9 @@
+com\emailassistant\backend\config\DataLoader.class
+com\emailassistant\backend\service\EmailSimulationService.class
+com\emailassistant\backend\repository\EmailRepository.class
+com\emailassistant\backend\controller\EmailController.class
+com\emailassistant\backend\entity\Email.class
+com\emailassistant\backend\controller\EmailController$ReplyRequest.class
+com\emailassistant\backend\service\EmailSimulationService$EmailTemplate.class
+com\emailassistant\backend\EmailAssistantBackendApplication.class
+com\emailassistant\backend\service\EmailAIService.class

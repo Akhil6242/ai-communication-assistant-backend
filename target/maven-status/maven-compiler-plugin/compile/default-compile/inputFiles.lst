@@ -1,0 +1,7 @@
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\config\DataLoader.java
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\controller\EmailController.java
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\EmailAssistantBackendApplication.java
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\entity\Email.java
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\repository\EmailRepository.java
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\service\EmailAIService.java
+C:\ReactProjects\ai-email-communication-assistant\email-assistant-backend\src\main\java\com\emailassistant\backend\service\EmailSimulationService.java
