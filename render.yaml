@@ -6,6 +6,3 @@ services:
     healthCheck:
       path: /api/health
       initialDelaySeconds: 120
-    envVars:
-      - key: DB_URL
-        value: "jdbc:postgresql://ai-email-assistant_db_nwxa_user:alPMilAoY9vksW2H45sWOYkdpvF20C0B@dpg-d47ne21r0fns73fj26tg-a/ai_email_assistant_db_nwxa"
