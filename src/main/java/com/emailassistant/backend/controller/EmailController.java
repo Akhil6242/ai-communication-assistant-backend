@@ -29,7 +29,7 @@ import com.emailassistant.backend.service.EmailSimulationService;
 
 @RestController
 @RequestMapping("/api/emails")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = {"http://localhost:3000", "https://ai-communication-assistant-xi.vercel.app"})
 public class EmailController {
     
     @Autowired
